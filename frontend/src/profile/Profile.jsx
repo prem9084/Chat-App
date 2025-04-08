@@ -140,7 +140,7 @@ const Profile = () => {
               {" "}
               <form
                 action=""
-                className="text-white border-1 rounded-1 h-100 w-50 m-auto fs-5 fw-bolder bg-gray-500 p-5"
+                className="forms text-white border-1 rounded-1 h-100 w-50 m-auto fs-5 fw-bolder bg-gray-500 p-5"
                 onSubmit={handelUpdate}
               >
                 <h3 className=" text-center mb-2">Profile</h3>
